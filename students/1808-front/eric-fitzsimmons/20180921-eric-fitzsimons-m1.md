@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Eric Fitzsimons) - (M1) Portfolio
 
 ## Areas of Emphasis
 
@@ -187,7 +187,56 @@
 #### https://github.com/ericfitzsimons451/ToDewBox
 #### http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
 
+#### This was an amazing project.  I learned a lot about how well I can understand code written by others.  The project helped instill confidence in me despite originally believing that we threw out too much of the original code base.  We were able to make a functional product and I got to be in a partnership where we both struggled, persevered and celebrated victory together.  Libby was an excellent partner and we worked off each other's strengths and weakenesses.  It really was the beginning of a turnaround, emotionally, for me.  Things seemed to get better from there.
 
+#### Students: Libby and Eric
+#### Evaluator: Louisa
+
+### Notes/What To Work On:
+#### code is in a good place for a refactor
+#### good shared ownership of codebase, you are both able to speak to what it's doing and the thought process that went into it
+
+### Functional Expectations
+#### halfway though phase 3
+#### Advanced Beginner
+#### Proficient
+
+### COMP RECREATION / DESIGN
+#### Advanced Beginner
+#### Proficient
+
+### HTML
+#### Advanced Beginner
+#### Proficient
+
+### CSS
+#### Advanced Beginner
+#### Proficient
+### JS/jQuery
+#### Advanced Beginner
+#### Proficient
+
+### GIT & GITHUB
+#### Advanced Beginner
+#### Proficient
+
+#### Pairing/Collaboration
+#### Advanced Beginner
+#### Proficient
+
+#### Technical Vocabulary
+#### Novice
+#### Advanced Beginner
+#### Proficient
+#### Exceptional
+
+### Surprise and Delight (optional category, but reminder: have fun!)
+#### Unicorn Rainbows
+#### Hot Fire
+#### Sparkles
+#### Magic
+
+### I believe that the final 2 categories were not evaluated, though I would love the idea that we had Unicorn Rainbows.
 
 
 ## D: Community Participation
